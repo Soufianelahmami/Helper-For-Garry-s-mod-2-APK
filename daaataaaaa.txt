@@ -46,15 +46,15 @@
 
   "number_of_inters_to_show": 2,
   
-  "onesignal_id": "xxxxxxx",
+  "onesignal_id": "30a7d7fa-7b24-4e39-8eba-d8e0a4629fea",
   
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J3cOyVn.webp",
+	 "title": "Helper For Garry's mod 2 APK 1",
+	 "text": "Provide a platform to browse and download user-created content such as mods, maps, and game modes.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -66,10 +66,10 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J3cOpoX.webp",
+	 "title": "Helper For Garry's mod 2 APK 2",
+	 "text": "Include a rating system for community content to help users discover high-quality creations.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -81,10 +81,10 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/J3cObtt.jpg",
+	 "title": "Helper For Garry's mod 2 APK 3",
+	 "text": "Offer a news section with updates about Garry's Mod 2, including patch notes, announcements, and community events.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -96,10 +96,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J3cOtAN.webp",
+	 "title": "Helper For Garry's mod 2 APK 4",
+	 "text": "Create a tool for planning and designing constructions before entering the game.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -111,10 +111,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J3cOZ9p.webp",
+	 "title": "Helper For Garry's mod 2 APK 5",
+	 "text": "Provide a companion interface for in-game features like inventory management and character customization.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
@@ -126,10 +126,10 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/J3cODNI.webp",
+	 "title": "Helper For Garry's mod 2 APK 6",
+	 "text": "Include tutorials and guides for beginners to help them understand the game mechanics, building techniques, and other aspects.",
+	 "text_two": "",
 
 	 "url": "https://modyolo.com/games",
 
